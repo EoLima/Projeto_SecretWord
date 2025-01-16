@@ -4,8 +4,6 @@
 
 # Projeto: Secret Word
 
-# Projeto: Secret Word
-
 O projeto "Secret Word" é um jogo interativo onde os usuários devem adivinhar uma palavra secreta com base em dicas fornecidas. Este projeto visa proporcionar uma experiência divertida e educativa, ajudando os jogadores a melhorar suas habilidades de vocabulário e raciocínio lógico.
 
 ## 🎯 Objetivo do Projeto
